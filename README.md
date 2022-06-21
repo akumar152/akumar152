@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**akumar152/akumar152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Topic covered
+String
 
-Here are some ideas to get you started:
+  String Slicing
+  Formated String
+List
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  List methods
+  List Comprehension
+Dictionary
+
+  Dictionary Methods
+  Dictionary Comprehension
+Tuple
+
+  Tuple Methods
+if-else satement
+  Usage
+Loop
+  For Loop
+  While Loop
+Function
+  Function usage
